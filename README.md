@@ -76,16 +76,19 @@ The dataset contains:
 
 ## SQL Analysis
 
+📂 SQL Queries: [Open SQL Folder](./sql)
+
 The project uses SQL for:
 
-* Data Cleaning
-* Price Analysis
-* Brand Performance Analysis
-* Fuel Type Analysis
-* Vehicle Age Analysis
-* Market Trend Analysis
+* Data Cleaning and Validation
+* Brand-wise Price Analysis
+* Fuel Type Performance Analysis
+* Transmission Analysis
+* Vehicle Age & Depreciation Analysis
+* Market Segmentation Analysis
+* KPI Calculations and Business Reporting
 
-SQL scripts are available in the `/sql` folder.
+SQL scripts are available in the SQL folder.
 
 ## Key Insights
 
