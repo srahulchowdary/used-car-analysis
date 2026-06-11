@@ -119,3 +119,8 @@ This analysis helps:
 * Power BI Dashboarding
 * Business Intelligence
 * Automotive Data Analysis
+
+
+## Conclusion
+
+This project demonstrates how SQL and Power BI can be used to analyze used car market trends, pricing behavior, vehicle performance, and depreciation patterns. The analysis provides actionable insights for buyers, sellers, dealerships, and automotive businesses by transforming raw vehicle data into data-driven business intelligence.
