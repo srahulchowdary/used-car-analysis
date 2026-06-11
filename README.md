@@ -51,7 +51,28 @@ The dataset contains:
 
 ## Dashboard Screenshots
 
-(Screenshots will be added here)
+📂 Dashboard Images: [Open Images Folder](./images)
+
+### Dashboard Overview
+
+![Dashboard Overview](images/dashboard-overview.png)
+
+### Brand & Pricing Analysis
+
+![Brand Pricing Analysis](images/brand-pricing-analysis.png)
+
+### Vehicle Performance Insights
+
+![Vehicle Performance Insights](images/vehicle-performance-insights.png)
+
+### Market Segmentation Analysis
+
+![Market Segmentation Analysis](images/market-segmentation-analysis.png)
+
+### Business Insights & Advanced Analytics
+
+![Business Insights Analytics](images/business-insights-analytics.png)
+
 
 ## SQL Analysis
 
