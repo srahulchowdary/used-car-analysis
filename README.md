@@ -89,16 +89,24 @@ SQL scripts are available in the `/sql` folder.
 
 ## Key Insights
 
-(To be added after dashboard completion)
+* Maruti holds the largest market share in the used car market, followed by Hyundai and Honda.
+* Premium brands such as Ferrari, Rolls-Royce, and Bentley command significantly higher resale prices.
+* Electric vehicles have the highest average selling price among all fuel types.
+* Automatic transmission vehicles achieve higher average resale values than manual vehicles.
+* Vehicle age has a strong negative relationship with resale value, highlighting depreciation effects.
+* Higher engine power generally correlates with higher selling prices.
+
 
 ## Business Impact
 
 This analysis helps:
 
-* Buyers make informed purchasing decisions
-* Sellers understand pricing strategies
-* Dealerships identify market trends
-* Businesses improve inventory planning
+* Buyers identify vehicles with better resale value.
+* Sellers understand pricing strategies based on brand, fuel type, and vehicle age.
+* Dealerships optimize inventory planning and pricing decisions.
+* Automotive businesses understand market trends and consumer preferences.
+* Stakeholders evaluate depreciation and performance factors affecting vehicle value.
+
 
 ## Skills Demonstrated
 
